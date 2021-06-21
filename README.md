@@ -6,3 +6,9 @@
 ---
 
 2. [Build a Survey Form](https://codepen.io/michaelnaghavipour/full/abJWERo)
+
+---
+
+3. [Build a Product Landing Page](https://codepen.io/michaelnaghavipour/full/wvJbWrM)
+
+---
